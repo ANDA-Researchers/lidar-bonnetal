@@ -9,3 +9,8 @@
 devel/
 logs/
 external.hpp
+.venv/
+darknet53-knn.tar.gz
+darknet53-knn-08.tar.gz
+semantickitti-08.tar.gz
+darknet53-knn/
